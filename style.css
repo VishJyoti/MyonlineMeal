@@ -210,3 +210,7 @@ footer{
 .center {
     text-align: center;
 }
+
+#info input{
+    padding:10px;
+}
